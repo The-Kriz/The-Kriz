@@ -9,8 +9,11 @@
 
 
 ## Projects
- ![Smart Pet](https://img.shields.io/github/downloads/The-Kriz/Smart_pet/v0.1.0/total?color=black&label=Smart%20Pet&logo=github&style=for-the-badge)
-
+ [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
+ [![Smart lock system](https://custom-icon-badges.herokuapp.com/badge/-RFID%20DOOR_LOCK_SYSTEM-White?style=for-the-badge&logoColor=white&logo=broadcast&color=black)](https://github.com/The-Kriz/RFID_Door_lock_system)
+ [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Smart-Attendance-system)
+[![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Automatic_Pet_Feeder)
+[![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/RFID_attendance)
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
