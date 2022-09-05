@@ -53,7 +53,8 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 [![](https://visitcount.itsvg.in/api?id=The-Kriz&icon=8&color=0)](https://visitcount.itsvg.in)
-[![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false)](https://visitcount.itsvg.in)
+[![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=0)](https://visitcount.itsvg.in)
+
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/harikrishnan.m.94801) 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_edwin_jarvis) 
