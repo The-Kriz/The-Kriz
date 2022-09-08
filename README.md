@@ -1,3 +1,6 @@
+
+<img align="right" src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/gif1.gif" alt="Hola Coders" width="350" height="250"/>
+
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Smart Pet](https://github.com/The-Kriz/Smart_pet)          
@@ -5,7 +8,6 @@
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
 - 📫 Reach me vai [Gmail](mailto:Harikrishnanm220b+github@gmail.com)
-
 
 
 ## Projects
