@@ -1,5 +1,5 @@
 
-<img align="right" src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/gif1.gif" alt="Hola Coders" width="350" height="250"/>
+<img align="right" src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/gif1.gif" alt="Hola Coders" width="330" height="200"/>
 
 ### Hi there 👋
 
