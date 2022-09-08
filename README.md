@@ -7,9 +7,12 @@
 - 🌱 I’m currently learning `Something for sure!` 
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
+- ❤  I’m intrested in `Robotics Camera_Vision Embedded_System System_Design CAD` 
 - 📫 Reach me vai [Gmail](mailto:Harikrishnanm220b+github@gmail.com)
 
-
+                            
+                            
+                            
 ## Projects
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
  [![Smart lock system](https://custom-icon-badges.herokuapp.com/badge/-RFID%20DOOR_LOCK_SYSTEM-White?style=for-the-badge&logoColor=white&logo=broadcast&color=black)](https://github.com/The-Kriz/RFID_Door_lock_system)
