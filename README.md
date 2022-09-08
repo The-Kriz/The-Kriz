@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on [Smart Pet](https://github.com/The-Kriz/Smart_pet)          
-- 🌱 I’m currently learning `Something for sure`
+- 🌱 I’m currently learning `Something for sure!` 
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
 - 📫 Reach me vai [Gmail](mailto:Harikrishnanm220b+github@gmail.com)
