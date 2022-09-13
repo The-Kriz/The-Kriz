@@ -58,6 +58,9 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=false&include_all_commits=true&count_private=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=nivedh05&theme=gotham&hide_border=false&include_all_commits=true&count_private=false&layout=compact)<br/>
+
+  <img align="center" alt="Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kriz&exclude_repo=linux-dotfiles&layout=compact&theme=dark&hide=html,css&hide_border=true" width="46%" />
+
 [![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=9)](https://visitcount.itsvg.in)
 
 
