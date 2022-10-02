@@ -20,7 +20,7 @@
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/RFID_attendance)
 ### Other :</br>
-[![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm-white)](https://github.com/The-Kriz/Robotic_Arm)
+[![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm2)](https://github.com/The-Kriz/Robotic_Arm)
 [![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=milestone)](https://github.com/The-Kriz/AutoAuto_car)
 [![Wheel_combinations](https://custom-icon-badges.herokuapp.com/badge/-Wheel%20combinations-White?style=for-the-badge&logoColor=white&color=black&logo=tools)](https://github.com/The-Kriz/Wheel_combinations)
 [![Object_Follower_CAM](https://custom-icon-badges.herokuapp.com/badge/-Object%20Follower-White?style=for-the-badge&logo=device-camera-video&Color=white&color=black)](https://github.com/The-Kriz/Object_Follower_CAM)
