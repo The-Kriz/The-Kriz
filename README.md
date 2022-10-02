@@ -19,6 +19,18 @@
  [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Smart-Attendance-system)
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/RFID_attendance)
+### Other :</br>
+[![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/Robotic_Arm)
+[![Wheel_combinations](https://custom-icon-badges.herokuapp.com/badge/-Wheel%20combinations-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/Wheel_combinations)
+[![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/AutoAuto_car)
+[![Object_Follower_CAM](https://custom-icon-badges.herokuapp.com/badge/-Object%20Follower-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/Object_Follower_CAM)
+[![Motor_Driver](https://custom-icon-badges.herokuapp.com/badge/-Motor%20Driver-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/Motor_Driver)
+[![I2C_communication](https://custom-icon-badges.herokuapp.com/badge/-i2c%20communication-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/I2C_communication)
+[![SolidWorks](https://custom-icon-badges.herokuapp.com/badge/-Solid%20Works-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/SolidWorks)
+[![Automatic_AC](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20a/c-White?style=for-the-badge&logoColor=white&color=black)](https://github.com/The-Kriz/Automatic_AC)
+
+
+
 
 # 💻 Tech Stack:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
