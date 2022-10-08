@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning `Something for sure!` 
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
-- ❤  I’m intrested in `Robotics Camera_Vision Embedded_System System_Design CAD` 
+- ❤  I’m intrested in `Robotics CV Embedded_System System_Design CAD` 
 - 📫 Reach me vai [Gmail](mailto:Harikrishnanm220b+github@gmail.com)
 
                             
