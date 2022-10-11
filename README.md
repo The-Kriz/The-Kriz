@@ -21,7 +21,8 @@
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/RFID_attendance)
 ### Other :</br>
 [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
-[![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=milestone)](https://github.com/The-Kriz/AutoAuto_car)
+[![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=copilot)](https://github.com/The-Kriz/AutoAuto_car)
+[![Tetrix_Prizm](https://custom-icon-badges.herokuapp.com/badge/-Tetrix%20Prizm-White?style=for-the-badge&logoColor=white&color=black&logo=cpu)](https://github.com/The-Kriz/Tetrix_Prizm_Controller)
 [![Wheel_combinations](https://custom-icon-badges.herokuapp.com/badge/-Wheel%20combinations-White?style=for-the-badge&logoColor=white&color=black&logo=tools)](https://github.com/The-Kriz/Wheel_combinations)
 [![Object_Follower_CAM](https://custom-icon-badges.herokuapp.com/badge/-Object%20Follower-White?style=for-the-badge&logo=device-camera-video&Color=white&color=black)](https://github.com/The-Kriz/Object_Follower_CAM)
 [![Motor_Driver](https://custom-icon-badges.herokuapp.com/badge/-Motor%20Driver-White?style=for-the-badge&logoColor=white&color=black&logo=sliders)](https://github.com/The-Kriz/Motor_Driver)
