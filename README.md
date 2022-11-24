@@ -15,13 +15,13 @@
                             
 ## Projects
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
- [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
+ [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
  [![Smart lock system](https://custom-icon-badges.herokuapp.com/badge/-RFID%20DOOR_LOCK_SYSTEM-White?style=for-the-badge&logoColor=white&logo=broadcast&color=black)](https://github.com/The-Kriz/RFID_Door_lock_system)
  [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Smart-Attendance-system)
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/RFID_attendance)
 ### Other :</br>
-[![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
+[![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
 [![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=copilot)](https://github.com/The-Kriz/AutoAuto_car)
 [![Tetrix_Prizm](https://custom-icon-badges.herokuapp.com/badge/-Tetrix%20Prizm-White?style=for-the-badge&logoColor=white&color=black&logo=cpu)](https://github.com/The-Kriz/Tetrix_Prizm_Controller)
 [![Wheel_combinations](https://custom-icon-badges.herokuapp.com/badge/-Wheel%20combinations-White?style=for-the-badge&logoColor=white&color=black&logo=tools)](https://github.com/The-Kriz/Wheel_combinations)
