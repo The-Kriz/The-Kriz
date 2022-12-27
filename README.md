@@ -13,7 +13,9 @@
                             
                             
                             
-## Projects <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="150" align="right" />
+## Projects 
+<img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
+
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
  [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
  [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
@@ -36,7 +38,11 @@
 
 
 
-# 💻 Tech Stack:
+# 💻 Tech Stack: 
+
+<img align="right" src="https://media1.giphy.com/media/VjAB0fOmK15Ze/giphy.gif?cid=ecf05e47lm9hk1zhw61y3k6nn6p0b0fd7m1qi9ouhjqa87yb&rid=giphy.gif&ct=g" width="250" />
+                        
+                        
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) 
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
@@ -46,6 +52,16 @@
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![MathWorks](https://img.shields.io/badge/MATLAB-EDB120.svg?style=for-the-badge&logo=&logoColor=white) 
+
+
+
+![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
+![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
+![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![SolidWorks-Logo](https://custom-icon-badges.herokuapp.com/badge/-SOLID%20WORKS-White?style=for-the-badge&logoColor=white&logo=solidworks&color=red)
+
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -64,12 +80,6 @@
 
 
 
-![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
-![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
-![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
-![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
-![SolidWorks-Logo](https://custom-icon-badges.herokuapp.com/badge/-SOLID%20WORKS-White?style=for-the-badge&logoColor=white&logo=solidworks&color=red)
-
 # 📊 GitHub Stats:
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=true)
 ![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=false)<br/>
@@ -82,5 +92,5 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-manoj) 
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/harikrishnan.m.94801)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_the_kriz) 
-
+[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com//users/765116957413474354)
 
