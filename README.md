@@ -13,7 +13,7 @@
                             
                             
                             
-## Projects
+## Projects <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="150" align="right" />
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
  [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
  [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
@@ -21,7 +21,7 @@
  [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/Smart_Attendance_system_main)
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/RFID_Attendance_System)
-### Other :</br>
+### Other : </br>
 [![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=copilot)](https://github.com/The-Kriz/AutoAuto_car)
 [![Tetrix_Prizm](https://custom-icon-badges.herokuapp.com/badge/-Tetrix%20Prizm-White?style=for-the-badge&logoColor=white&color=black&logo=cpu)](https://github.com/The-Kriz/Tetrix_Prizm_Controller)
 [![Wheel_combinations](https://custom-icon-badges.herokuapp.com/badge/-Wheel%20combinations-White?style=for-the-badge&logoColor=white&color=black&logo=tools)](https://github.com/The-Kriz/Wheel_combinations)
@@ -31,6 +31,7 @@
 [![SolidWorks](https://custom-icon-badges.herokuapp.com/badge/-Solid%20Works-White?style=for-the-badge&logoColor=white&color=black&logo=solidworks)](https://github.com/The-Kriz/SolidWorks)
 [![Automatic_AC](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20a/c-White?style=for-the-badge&logoColor=white&logo=home&color=black)](https://github.com/The-Kriz/Automatic_AC)
 [![My_keyboard.h](https://custom-icon-badges.herokuapp.com/badge/-My%20Keyboard.h-White?style=for-the-badge&logo=typography&Color=white&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/My_keyboard.h)
+
 
 
 
