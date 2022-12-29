@@ -34,7 +34,7 @@
 [![SolidWorks](https://custom-icon-badges.herokuapp.com/badge/-Solid%20Works-White?style=for-the-badge&logoColor=white&color=black&logo=solidworks)](https://github.com/The-Kriz/SolidWorks)
 [![Automatic_AC](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20a/c-White?style=for-the-badge&logoColor=white&logo=home&color=black)](https://github.com/The-Kriz/Automatic_AC)
 [![My_keyboard.h](https://custom-icon-badges.herokuapp.com/badge/-My%20Keyboard.h-White?style=for-the-badge&logo=typography&Color=white&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/My_keyboard.h)
-
+[![web_dev](https://custom-icon-badges.herokuapp.com/badge/-WEB%20Dev-White?style=for-the-badge&logo=browser&Color=white&color=black)](https://github.com/The-Kriz/Web_Dev)
 
 
 
@@ -47,6 +47,8 @@
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) 
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
 ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
