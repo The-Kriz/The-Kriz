@@ -24,6 +24,8 @@
  [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/Smart_Attendance_system_main)
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/RFID_Attendance_System)
+[![Camera_vision](https://custom-icon-badges.herokuapp.com/badge/Computer%20Vision-White?style=for-the-badge&logoColor=white&logo=device-camera-video&color=black)](https://github.com/The-Kriz/Computer_Vision)
+
 ### Other : </br>
 [![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=copilot)](https://github.com/The-Kriz/AutoAuto_car)
 [![Tetrix_Prizm](https://custom-icon-badges.herokuapp.com/badge/-Tetrix%20Prizm-White?style=for-the-badge&logoColor=white&color=black&logo=cpu)](https://github.com/The-Kriz/Tetrix_Prizm_Controller)
