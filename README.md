@@ -20,11 +20,11 @@
  [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
  [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
  [![Embedded systems](https://custom-icon-badges.herokuapp.com/badge/-Embedded%20systems-white?style=for-the-badge&logoColor=white&color=black&logo=infinity)](https://github.com/The-Kriz/Embedded_systems)
+ [![Camera_vision](https://custom-icon-badges.herokuapp.com/badge/Computer%20Vision-White?style=for-the-badge&logoColor=white&logo=device-camera-video&color=black)](https://github.com/The-Kriz/Computer_Vision)
  [![Smart lock system](https://custom-icon-badges.herokuapp.com/badge/-RFID%20DOOR_LOCK_SYSTEM-White?style=for-the-badge&logoColor=white&logo=broadcast&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/RFID_Door_lock_System)
  [![Smart-Attendance-system](https://custom-icon-badges.herokuapp.com/badge/-Smart_Attendance_system-White?style=for-the-badge&logoColor=white&logo=check-circle&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/Smart_Attendance_system_main)
 [![Automatic_Pet_Feeder](https://custom-icon-badges.herokuapp.com/badge/-Automatic%20Pet_Feeder-White?style=for-the-badge&logoColor=white&logo=dog&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/Automatic_Pet_Feeder)
 [![RFID_attendance](https://custom-icon-badges.herokuapp.com/badge/-RFID_Attendance_system-White?style=for-the-badge&logoColor=white&logo=id-badge&color=black)](https://github.com/The-Kriz/Embedded_systems/tree/main/RFID_Attendance_System)
-[![Camera_vision](https://custom-icon-badges.herokuapp.com/badge/Computer%20Vision-White?style=for-the-badge&logoColor=white&logo=device-camera-video&color=black)](https://github.com/The-Kriz/Computer_Vision)
 
 ### Other : </br>
 [![AutoAuto_car](https://custom-icon-badges.herokuapp.com/badge/-AutoAuto%20car-White?style=for-the-badge&logoColor=white&color=black&logo=copilot)](https://github.com/The-Kriz/AutoAuto_car)
