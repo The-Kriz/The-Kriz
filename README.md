@@ -52,20 +52,22 @@
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 
-![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
-![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
-![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
-![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
-<img align="right" src="https://media1.giphy.com/media/VjAB0fOmK15Ze/giphy.gif?cid=ecf05e47lm9hk1zhw61y3k6nn6p0b0fd7m1qi9ouhjqa87yb&rid=giphy.gif&ct=g" width="250" />
-![MathWorks](https://img.shields.io/badge/MATLAB-EDB120.svg?style=for-the-badge&logo=&logoColor=white) 
-  
 
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white) 
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
+![MicroPython](https://img.shields.io/badge/-MicroPython-%23FA0F00?style=for-the-badge&logo=micropython-new-logo1&logoColor=white) 
+<img align="right" src="https://media1.giphy.com/media/VjAB0fOmK15Ze/giphy.gif?cid=ecf05e47lm9hk1zhw61y3k6nn6p0b0fd7m1qi9ouhjqa87yb&rid=giphy.gif&ct=g" width="250" />
 ![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
 ![SolidWorks-Logo](https://custom-icon-badges.herokuapp.com/badge/-SOLID%20WORKS-White?style=for-the-badge&logoColor=white&logo=solidworks&color=red)
 
+
+![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) 
+![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green) 
+![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) 
+![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white) 
+![MathWorks](https://img.shields.io/badge/MATLAB-EDB120.svg?style=for-the-badge&logo=&logoColor=white) 
+  
 
 ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
