@@ -87,11 +87,15 @@
 
 
 # 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/>
-[![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=9)](https://visitcount.itsvg.in)
 
+<P align="center">
+  
+![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=true)
+![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+[![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=9)](https://visitcount.itsvg.in)
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
+
+</P>
 
 ## 🌐 Socials: 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_edwin_jarvis) 
