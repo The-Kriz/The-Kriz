@@ -16,6 +16,7 @@
 ## Projects 
 <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
 
+ [![Micro_Mouse](https://custom-icon-badges.herokuapp.com/badge/-MICRO%20MOUSE-White?style=for-the-badge&logoColor=white&logo=copilot&color=black)](https://github.com/The-Kriz/Micro_Mouse)
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
  [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
  [![Robotic Arm](https://custom-icon-badges.herokuapp.com/badge/-Robotic%20Arm-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Robotic_Arm)
