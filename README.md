@@ -16,6 +16,7 @@
 ## Projects 
 <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
 
+ [![ROS2](https://custom-icon-badges.herokuapp.com/badge/-ROG%20ROS%20BOT-White?style=for-the-badge&logoColor=white&logo=hubot&color=black)](https://github.com/The-Kriz/rog_ros_bot)
  [![Micro_Mouse](https://custom-icon-badges.herokuapp.com/badge/-MICRO%20MOUSE-White?style=for-the-badge&logoColor=white&logo=copilot&color=black)](https://github.com/The-Kriz/Micro_Mouse)
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
  [![Niryo Ned](https://custom-icon-badges.herokuapp.com/badge/-Niryo%20Ned-white?style=for-the-badge&logoColor=white&color=black&logo=robotic-arm3)](https://github.com/The-Kriz/Niryo_Ned)
@@ -92,7 +93,7 @@
 <P align="center">
   
 ![](https://github-readme-streak-stats.herokuapp.com/?user=The-Kriz&theme=gotham&hide_border=true)
-![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)
+<!-- ![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) -->
 [![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=9)](https://visitcount.itsvg.in)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
 
