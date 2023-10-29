@@ -3,11 +3,11 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [Smart Pet](https://github.com/The-Kriz/Smart_pet)          
+- 🔭 I’m currently working on [ROS2 Bot](https://github.com/The-Kriz/rog_ros_bot)          
 - 🌱 I’m currently learning `Something for sure!` 
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
-- ❤  I’m intrested in `Robotics CV Embedded_System System_Design CAD` 
+- ❤  I’m intrested in `Robotics ROS CV Embedded_System System_Design CAD` 
 - 📫 Reach me vai [Gmail](mailto:Harikrishnanm220b+github@gmail.com)
 
                             
