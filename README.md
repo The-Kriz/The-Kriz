@@ -61,8 +61,8 @@
 ![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi) 
 ![MicroPython](https://img.shields.io/badge/-MicroPython-%23FA0F00?style=for-the-badge&logo=micropython-new-logo1&logoColor=white) 
 <img align="right" src="https://media1.giphy.com/media/VjAB0fOmK15Ze/giphy.gif?cid=ecf05e47lm9hk1zhw61y3k6nn6p0b0fd7m1qi9ouhjqa87yb&rid=giphy.gif&ct=g" width="250" />
-![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
 ![Adafruit](https://img.shields.io/badge/adafruit-000000?style=for-the-badge&logo=adafruit&logoColor=white)
+![Altium](https://img.shields.io/badge/altium%20designer-A5915F?style=for-the-badge&logo=altium%20designer&logoColor=white)
 ![SolidWorks-Logo](https://custom-icon-badges.herokuapp.com/badge/-SOLID%20WORKS-White?style=for-the-badge&logoColor=white&logo=solidworks&color=red)
 
 
