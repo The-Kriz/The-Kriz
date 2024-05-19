@@ -3,7 +3,7 @@
 
 ### Hi there 👋
 
-- 🔭 I’m currently working on [ROS2 Bot](https://github.com/The-Kriz/rog_ros_bot)          
+- 🔭 I’m currently working on [Project EVA](https://github.com/The-Kriz/project_eva)          
 - 🌱 I’m currently learning `Something for sure!` 
 - 👯 I’m looking to collaborate on `Hardware Projects`
 - 🤔 I’m looking for help with `Real Time Voice Cloning`
@@ -16,7 +16,7 @@
 ## Projects 
 <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
 
- [![ROS2](https://custom-icon-badges.herokuapp.com/badge/-PROJECT%20EVA-White?style=for-the-badge&logoColor=white&logo=accessibility&color=black)](https://github.com/The-Kriz/project_eva)
+ [![project_eva](https://custom-icon-badges.herokuapp.com/badge/-PROJECT%20EVA-White?style=for-the-badge&logoColor=white&logo=accessibility&color=black)](https://github.com/The-Kriz/project_eva)
  [![ROS2](https://custom-icon-badges.herokuapp.com/badge/-ROG%20ROS%20BOT-White?style=for-the-badge&logoColor=white&logo=hubot&color=black)](https://github.com/The-Kriz/rog_ros_bot)
  [![Micro_Mouse](https://custom-icon-badges.herokuapp.com/badge/-MICRO%20MOUSE-White?style=for-the-badge&logoColor=white&logo=copilot&color=black)](https://github.com/The-Kriz/Micro_Mouse)
  [![Smart Pet](https://custom-icon-badges.herokuapp.com/badge/-SMART%20PET-White?style=for-the-badge&logoColor=white&logo=squirrel&color=black)](https://github.com/The-Kriz/Smart_pet)
