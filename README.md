@@ -13,8 +13,8 @@
                             
                             
                             
-## Projects 
-<img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
+## Projects
+⬇️ **Click the project buttons below to open the repositories** <img src="https://github.com/The-Kriz/The-Kriz/blob/main/Gif/button221.gif" width="160" align="right" />
 
  [![project_eva](https://custom-icon-badges.herokuapp.com/badge/-PROJECT%20EVA-White?style=for-the-badge&logoColor=white&logo=accessibility&color=black)](https://github.com/The-Kriz/project_eva)
  [![ROS2](https://custom-icon-badges.herokuapp.com/badge/-ROG%20ROS%20BOT-White?style=for-the-badge&logoColor=white&logo=hubot&color=black)](https://github.com/The-Kriz/rog_ros_bot)
