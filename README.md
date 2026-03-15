@@ -98,13 +98,4 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true) -->
 [![](https://visitcount.itsvg.in/api?id=The-Kriz&label=Visitors&icon=3&pretty=false&color=9)](https://visitcount.itsvg.in)
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=The-Kriz&theme=gotham&hide_border=true&include_all_commits=true&count_private=true)<br/> -->
-
 </P>
-
-## 🌐 Socials: 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/_edwin_jarvis) 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harikrishnan-manoj) 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=Facebook&logoColor=white)](https://facebook.com/harikrishnan.m.94801)
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/_the_kriz) 
-[![Discord](https://img.shields.io/static/v1?style=for-the-badge&message=Discord&color=5865F2&logo=Discord&logoColor=FFFFFF&label=)](https://discord.com//users/765116957413474354)
-
